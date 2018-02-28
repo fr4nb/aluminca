@@ -1,0 +1,487 @@
+[Mon Feb 26 20:41:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/img/header.jpg, referer: http://www.aluminca.local.com/css/creative.min.css
+[Mon Feb 26 20:41:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:41:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:41:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:41:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:10 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:10 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:11 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:11 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:42:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:43:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:43:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:43:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:43:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:44:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 20:44:27 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 20:46:58 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Feb 26 20:46:58 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/favicon.ico, referer: http://www.aluminca.local.com/img/favicon/favicon-32x32.png
+[Mon Feb 26 20:47:31 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Feb 26 20:51:03 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 20:51:07 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:51:07 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:51:07 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:51:07 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:51:59 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Feb 26 20:54:18 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:54:18 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:54:18 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:54:18 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:24 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:24 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:24 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:54:24 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:08 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:39 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:41 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:41 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:41 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:55:42 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:16 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:56:17 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:56:17 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:56:17 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:20 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:20 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:20 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:20 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:41 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/vendor, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/js, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:52 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 20:56:56 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:38:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:39:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:41:28 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:42:51 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:42:51 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/
+[Mon Feb 26 22:42:52 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:42:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:42:54 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:42:54 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:42:54 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:42:54 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:44:48 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:44:48 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:44:48 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:44:48 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:53 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:53 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:53 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:44:53 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:45:23 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:45:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:45:26 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:45:27 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:45:27 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:45:27 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:33 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:34 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:34 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:34 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:34 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:45:43 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:46:53 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:47:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:47:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:47:09 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:13 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:17 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/vendor, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/js, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:26 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:26 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:26 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:47:26 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:43 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:47 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:57 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:48:58 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 22:49:02 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:07 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:12 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:17 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:27 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:31 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:31 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:31 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:31 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:35 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:49:39 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:49:39 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:49:39 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:49:39 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:15 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:15 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:15 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:16 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 22:50:23 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:50:23 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:50:23 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 22:50:23 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 23:00:00 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 23:00:00 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 23:00:00 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 23:00:00 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://www.aluminca.local.com/index.html
+[Mon Feb 26 23:00:07 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:08:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/favicon.ico, referer: http://www.aluminca.local.com/vendor/
+[Mon Feb 26 23:09:02 2018] [crit] [client 127.0.0.1] (13)Permission denied: /Users/fran/Sites/aluminca/www/img/favicon/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:18:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:31:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:32:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:01 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:02 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:32:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:27 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:34:37 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:37 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:37 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:37 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:37 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:38 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:43 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:48 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:52 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:34:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:00 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:05 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:16 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:35:20 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:35 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:45 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:35:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:00 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:05 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:20 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:25 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:35 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:40 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:45 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:50 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:36:55 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:37:00 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:37:05 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:37:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:37:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:37:16 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Mon Feb 26 23:38:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:38:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:38:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:38:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:38:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:38:15 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Mon Feb 26 23:38:24 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Mon Feb 26 23:38:38 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 11:22:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:10 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Tue Feb 27 11:22:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Tue Feb 27 11:22:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Tue Feb 27 11:22:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Tue Feb 27 11:22:19 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/en/img, referer: http://www.aluminca.local.com/en/index.html
+[Tue Feb 27 11:22:21 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:21 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:21 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:21 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 11:22:21 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:04:27 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:04:43 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:05:13 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:06:58 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:07:07 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:09:48 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:11:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:13:27 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:13:54 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:15:42 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:19:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:19:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:19:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:19:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:19:14 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:06 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 12:23:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:22 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/pt/img, referer: http://www.aluminca.local.com/pt/index.html
+[Tue Feb 27 12:23:31 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 15:59:02 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/js/flags/BR.png, referer: http://www.aluminca.local.com/index.html
+[Tue Feb 27 15:59:16 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/js/flags/BR.png, referer: http://www.aluminca.local.com/index.html
+[Tue Feb 27 15:59:24 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 15:59:29 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
+[Tue Feb 27 15:59:30 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/js/flags/BR.png, referer: http://www.aluminca.local.com/index.html
+[Tue Feb 27 15:59:45 2018] [error] [client 127.0.0.1] File does not exist: /Users/fran/Sites/aluminca/www/vendor/bootstrap/css/bootstrap.min.css.map
