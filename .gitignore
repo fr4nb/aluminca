@@ -1,5 +1,7 @@
 # ignore a single file
-sftp-config.json
+sftp-config.json,
+.DS_Store,
+LICENSE
 
 # ignore an entire directory
 /log/
