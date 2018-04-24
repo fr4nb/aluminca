@@ -8,6 +8,7 @@ LICENSE
 
 # ignore a file type
 #*.json
+*.DS_Store
 
 # add an exception (using !) to the preceding rule to track a specific file
 #!package.json
