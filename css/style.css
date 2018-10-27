@@ -63,116 +63,7 @@ hr {
 	height: 90%;
 }
 
-/* HEADER */
-header[data-slides] {
-	background-repeat: no-repeat;
-	background-color: #000;
-	background-image: url(../img/banner1.jpg); /* Default image. */
-	/*background-position: -2000px 0;*/
-	transition: all 1s ease-in-out;
-}
-.header-content-inner h1 {
-	text-shadow: 3px 2px 4px rgba(0,0,0,1);
-}
-.header-content-inner p b,
-.text-faded b {
-	font-weight: normal;
-    color: #fff;
-}
-.btn-primary {
-	background-color: #337ab7;
-    border-color: #2e6da4;
-}
-.btn-primary.active, 
-.btn-primary.focus, 
-.btn-primary:active,
-.btn-primary:focus, 
-.btn-primary:hover, 
-.open>.dropdown-toggle.btn-primary {
-	background-color: #286090;
-    border-color: #204d74;
-}
 
-.bg-primary {
-    background-image: linear-gradient(to right, rgba(52, 122, 183, 0.8), rgba(52, 122, 183,0.6)), url(../img/fundicion.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 105%;
-    background-color: #337ab7;
-}
-
-/*  QUE HACEMOS  */
-.text-primary {
-    color: #337ab7;
-}
-.wrap-logo {
-    display: inline-block;
-    width: 120px;
-    text-align: center;
-}
-.wrap-logo .logo_fill {
-	fill: #337ab7;
-}
-.text-muted .text-logo {
-	color: #000;
-	font-size: 17px;
-}
-.fix-logo-padding {
-	padding: 7px 0;
-}
-
-.portfolio-box .portfolio-box-caption {
-	background: rgba(52, 122, 183,.9);
-}
-
-.dw-button {
-	font-size: 40px;
-	color: #fff;
-	padding: 50px 30px;
-}
-.dw-button:hover {
-	color: rgba(255,255,255,.5);
-}
-.dw-button .fa-4x {
-	font-size: 3em;
-}
-.dw-button h5 {
-	margin-top: 17px;
-}
-
-/* Contacto */
-#contact {
-	padding-bottom: 0;
-}
-#contact .text-logo {
-	color: #000;
-}
-
-/*PUBLISHING POPUP*/
-.publi-popup-body {
-	text-align: center;
-}
-.publi-popup-content {
-	background-color: transparent;
-	-webkit-box-shadow: none;
-    box-shadow: none;
-}
-.publi-popup-header {
-	border-bottom: none;
-}
-.publi-popup-close {
-	color: #fff;
-	opacity: 1;
-	font-size: .8em;
-}
-.publi-popup-close:hover {
-	color: #fff;
-	opacity: .5;
-}
-.img-fluid {
-	max-width: 100%;
-	height: auto;
-}
 
 
 @media (max-device-width: 799px) {
@@ -202,5 +93,11 @@ header[data-slides] {
 	}
 	.navbar-default.affix .nav > li > language img {
 		height: 80%;
+	}
+}
+
+@media (min-width: 992px)  {
+	.services-container .col-md-6 {
+		min-height: 181px;
 	}
 }

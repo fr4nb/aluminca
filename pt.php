@@ -1,5 +1,7 @@
 <?php 
 	
+	require 'core/var.php'
+
 	// var
 	$lang = "pt-BR"; //languaje
 	$title = "ALUMINCA SRL - Fundci&ccedil;&atilde;o e matrizagem de pe&ccedil;as em alum&iacute;nio"; //site title

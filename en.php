@@ -1,5 +1,7 @@
 <?php 
 	
+	require 'core/var.php'
+
 	// var
 	$lang = "en-US"; //languaje
 	$title = "ALUMINCA SRL - Aluminum Metal Stamping and Casting"; //site title

@@ -7,10 +7,20 @@
 
 </head>
 
-<body id="page-top">
+<body id="page-top">	
 	
 	<?php 
-		require 'includes/content.php';
+		// page select
+		switch ($page) {
+			case 'promo':
+				require 'includes/content-promo.php';
+				break;
+			
+			default:
+				require 'includes/content.php';
+				break;
+		}
+
 		require 'includes/script.php';
 	?>
 

@@ -59,6 +59,23 @@
 <!-- Custom CSS -->
 <link href="/css/style.css" rel="stylesheet">
 
+<!-- Page CSS -->
+<?php 
+	switch ($page) {
+		case 'promo':
+		?> 
+			<link href="/css/pages/promo.css" rel="stylesheet">
+		<?php
+			break;
+		
+		default:
+			?> 
+			<link href="/css/pages/home.css" rel="stylesheet">
+		<?php
+			break;
+	}
+?>
+
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
