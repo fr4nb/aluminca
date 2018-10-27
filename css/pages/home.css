@@ -2,7 +2,7 @@
 header[data-slides] {
 	background-repeat: no-repeat;
 	background-color: #000;
-	background-image: url(../img/banner1.jpg); /* Default image. */
+	background-image: url(/img/banner1.jpg); /* Default image. */
 	/*background-position: -2000px 0;*/
 	transition: all 1s ease-in-out;
 }
@@ -13,19 +13,6 @@ header[data-slides] {
 .text-faded b {
 	font-weight: normal;
     color: #fff;
-}
-.btn-primary {
-	background-color: #337ab7;
-    border-color: #2e6da4;
-}
-.btn-primary.active, 
-.btn-primary.focus, 
-.btn-primary:active,
-.btn-primary:focus, 
-.btn-primary:hover, 
-.open>.dropdown-toggle.btn-primary {
-	background-color: #286090;
-    border-color: #204d74;
 }
 
 .bg-primary {
@@ -106,8 +93,4 @@ header[data-slides] {
 }
 .publi-popup-close:hover {
 	opacity: .5;
-}
-.img-fluid {
-	max-width: 100%;
-	height: auto;
 }
