@@ -1,3 +1,22 @@
+<?php 
+
+    $href;
+
+    !$page ? $href = '#page-top' : $href = 'index.php' ;
+
+    switch (!$page) {
+        case is_null(!$page): //var tiene valor
+            $href = 'index.php';
+            break;
+        
+        default:
+            $href = '#page-top';
+            break;
+    }
+
+?>
+
+
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -5,7 +24,7 @@
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">
+            <a class="navbar-brand page-scroll" href="<?php echo $href ?>">
                 <i>
                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 474.684 199.109" enable-background="new 0 0 474.684 199.109" xml:space="preserve">
                         <g class="logo_fill">
@@ -72,7 +91,7 @@
                 <li>
                     <a class="page-scroll" href="#portfolio">Nuestros Productos</a>
                 </li>
-                <li>
+                <li class="contact">
                     <a class="page-scroll" href="#contact">Contactanos</a>
                 </li>
             </ul>

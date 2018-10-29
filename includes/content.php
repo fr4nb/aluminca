@@ -15,7 +15,7 @@
                 </button>
             </div>
             <div class="modal-body publi-popup-body">
-                <h2>PROMOCI&Oacute;N EXCLUSIVA</h2>
+                <h2>ORIGINAL - EN VENTA</h2>
                 <h1>Juego de matrices para cortadora de fiambre</h1>
                 <img src="img/matrices_para_cortadora_de_fiambre2.png" class="img-fluid" alt="matrices para cortadora de fiambre">
                 <a href="promo.php" class="btn btn-primary btn-xl page-scroll">Me interesa!</a>

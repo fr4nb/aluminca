@@ -2,3 +2,8 @@
 [lang='en'] {
 	display: none !important;
 }
+
+ul[lang='es'] li:not(.contact){
+	display: none;	
+}
+
