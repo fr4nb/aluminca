@@ -12,3 +12,6 @@ LICENSE
 
 # add an exception (using !) to the preceding rule to track a specific file
 #!package.json
+*.DS_Store
+/log
+*.DS_Store

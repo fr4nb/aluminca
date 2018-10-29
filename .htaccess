@@ -18,3 +18,5 @@ AddType application/x-httpd-php .foo
 # sirve archivos foo como archivos cgi
 AddType application/x-httpd-cgi .foo
 
+#solo para probar un comando en git
+
