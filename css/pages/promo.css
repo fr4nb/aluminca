@@ -7,3 +7,7 @@ ul[lang='es'] li:not(.contact){
 	display: none;	
 }
 
+#promo {
+	padding-bottom: 0;
+}
+

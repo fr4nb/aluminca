@@ -235,6 +235,107 @@
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
         <div class="row no-gutter popup-gallery">
+            
+            <!-- prod 1 -->
+            <div class="featured col-lg-4 col-sm-6">
+                <a href="/img/portfolio/fullsize/promo.jpg" class="portfolio-box">
+                    <img src="/img/portfolio/thumbnails/promo.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div lang="en" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Meat Slicers
+                            </div>
+                            <div class="project-name">
+                                Parts and accessories
+                            </div>
+                        </div>
+                        <div lang="pt" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                FATIADOR DE FRIOS
+                            </div>
+                            <div class="project-name">
+                                Pe&ccedil;as
+                            </div>
+                        </div>
+                        <div lang="es" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                ORIGINAL - EN VENTA
+                            </div>
+                            <div class="project-name">
+                                Juego de matrices para cortadora de fiambre
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div><!-- // prod 1 -->
+
+            <!-- prod 2 -->
+            <div class="col-lg-4 col-sm-6">
+                <a href="/img/portfolio/fullsize/Tortugas-Oferta.jpg" class="portfolio-box">
+                    <img src="/img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div lang="en" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Offer
+                            </div>
+                            <div class="project-name">
+                                Oval Bulkhead Lights
+                            </div>
+                        </div>
+                        <div lang="pt" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Oferecer
+                            </div>
+                            <div class="project-name">
+                                Tartarugas
+                            </div>
+                        </div>
+                        <div lang="es" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Oferta
+                            </div>
+                            <div class="project-name">
+                                Tortugas
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div><!-- // prod 2 -->
+
+            <!-- prod 3 -->
+            <div class="col-lg-4 col-sm-6">
+                <a href="/img/portfolio/fullsize/3.jpg" class="portfolio-box">
+                    <img src="/img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div lang="en" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                6030
+                            </div>
+                            <div class="project-name">
+                                Street Lights
+                            </div>
+                        </div>
+                        <div lang="pt" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                6030
+                            </div>
+                            <div class="project-name">
+                                Dispositivos de rua
+                            </div>
+                        </div>
+                        <div lang="es" class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                6030
+                            </div>
+                            <div class="project-name">
+                                Artefactos de calle
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div><!-- // prod 3 -->
+
+            <!-- prod 4 -->
             <div class="col-lg-4 col-sm-6">
                 <a href="/img/portfolio/fullsize/1.jpg" class="portfolio-box">
                     <img src="/img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
@@ -269,101 +370,10 @@
                         </div>
                     </div>
                 </a>
-            </div>
+            </div><!-- // prod 4 -->
+
+            <!-- prod 5 -->
             <div class="col-lg-4 col-sm-6">
-                <a href="/img/portfolio/fullsize/2.jpg" class="portfolio-box">
-                    <img src="/img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div lang="en" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                classic Oval Bulkhead Light
-                            </div>
-                            <div class="project-name">
-                                Oval Bulkhead Lights
-                            </div>
-                        </div>
-                        <div lang="pt" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                TARTARUGA CL&aacute;SSICA
-                            </div>
-                            <div class="project-name">
-                                Tartarugas
-                            </div>
-                        </div>
-                        <div lang="es" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Tortuga cl&aacute;sica
-                            </div>
-                            <div class="project-name">
-                                Tortugas
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="/img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                    <img src="/img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div lang="en" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                6030
-                            </div>
-                            <div class="project-name">
-                                Street Lights
-                            </div>
-                        </div>
-                        <div lang="pt" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                6030
-                            </div>
-                            <div class="project-name">
-                                Dispositivos de rua
-                            </div>
-                        </div>
-                        <div lang="es" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                6030
-                            </div>
-                            <div class="project-name">
-                                Artefactos de calle
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="/img/portfolio/fullsize/4.jpg" class="portfolio-box">
-                    <img src="/img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div lang="en" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Meat Slicers
-                            </div>
-                            <div class="project-name">
-                                Parts and accessories
-                            </div>
-                        </div>
-                        <div lang="pt" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                FATIADOR DE FRIOS
-                            </div>
-                            <div class="project-name">
-                                Pe&ccedil;as
-                            </div>
-                        </div>
-                        <div lang="es" class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Cortadora de fiambres
-                            </div>
-                            <div class="project-name">
-                                Partes
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-           <div class="col-lg-4 col-sm-6">
                 <a href="/img/portfolio/fullsize/5.jpg" class="portfolio-box">
                     <img src="/img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
@@ -393,7 +403,9 @@
                         </div>
                     </div>
                 </a>
-            </div>
+            </div><!-- //prod 5 -->
+
+            <!-- prod 6 -->
             <div class="col-lg-4 col-sm-6">
                 <a href="/img/portfolio/fullsize/6.jpg" class="portfolio-box">
                     <img src="/img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
@@ -426,7 +438,7 @@
                 </a>
             </div>
         </div>
-    </div>
+    </div><!-- //prod 6 -->
 </section>
 
 <aside id="cat" class="bg-dark">
@@ -477,63 +489,4 @@
     </div>
 </aside>
 
-<section id="contact">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-lg-12 text-center">
-                <h2 lang="en" class="section-heading">Contact us</h2>
-                <h2 lang="pt" class="section-heading">Fale conosco</h2>
-                <h2 lang="es" class="section-heading">Comunicate con nosotros</h2>
-                <hr class="primary">
-                <div class="col-lg-3 col-lg-offset-1 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>+54 0341 457-6733</p>
-                </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-facebook-f fa-3x sr-contact"></i>
-                    <p><a href="https://www.facebook.com/" title="visitanos en Facebook" target="_blank">facebook.com/aluminca</a></p>
-                </div>
-                <div class="col-lg-3 text-center">
-                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:aluminca@hotmail.com">aluminca@hotmail.com</a></p>
-                </div>
-            </div>
-
-            <div class="col-lg-12 text-center">   
-                <hr class="primary">
-                <p lang="en"><strong class="text-logo">Aluminca SRL</strong> is located at 520 Bis Colombia, Rosario (ARGENTINA)</p>
-                <p lang="pt"><strong class="text-logo">Aluminca SRL</strong> encontra-se em Colombia 520 Bis, Rosário (ARGENTINA)</p>
-                <p lang="es"><strong class="text-logo">Aluminca SRL</strong> se encuentra en Colombia 520 Bis, Rosario (ARGENTINA)</p>
-            </div>
-            
-        </div>
-    </div>
-</section>
-<div class="container-fluid">
-    <iframe class="well well-sm col-xs-12" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3349.0675617785496!2d-60.71907928502552!3d-32.922813178011644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b65328c60aa657%3A0x1e8f461b897a6ef0!2sAluminca+SRL!5e0!3m2!1ses!2sar!4v1508082002860" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
-<!-- <footer class="footer">
-    <div class="container-fluid">
-        <p><a class="navbar-brand page-scroll" href="#page-top">
-                <i>
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 474.684 199.109" enable-background="new 0 0 474.684 199.109" xml:space="preserve">
-                        <g class="logo_fill">
-                            <polyline points="71.405,199.109 0,199.109 0,157.458 48.258,157.458 134.868,0.109 232.722,0.109 232.722,51.015 
-                                155.368,51.015  "/>
-                            <polyline points="232.722,199.109 79.337,199.109 105.78,156.136 199.005,156.136 199.005,123.739 119.669,123.739 
-                                140.157,88.038 232.722,88.038   "/>
-                            <polyline points="474.699,199.109 403.303,199.109 319.326,51.015 241.974,51.015 241.974,0.109 339.836,0.109 
-                                426.435,157.458 474.699,157.458     "/>
-                            <polyline points="395.361,199.109 241.974,199.109 241.974,88.038 334.538,88.038 355.027,123.739 275.694,123.739 
-                                275.694,156.136 368.923,156.136     "/>
-                        </g>
-                    </svg>
-                </i>
-            Aluminca S.R.L.</a></p>
-    </div>
-    
-</footer> -->
-
-<div id="preload_area"></div>
+<?php require 'includes/footer.php'; ?>

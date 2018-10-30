@@ -46,6 +46,9 @@ header[data-slides] {
 .portfolio-box .portfolio-box-caption {
 	background: rgba(52, 122, 183,.9);
 }
+.featured .portfolio-box .portfolio-box-caption {
+	background: rgba(234, 106, 42, .9);
+}
 
 .dw-button {
 	font-size: 40px;

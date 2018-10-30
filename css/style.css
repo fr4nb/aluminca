@@ -80,7 +80,14 @@ hr {
 	height: auto;
 }
 
-
+.well-sm {
+	margin-bottom: 0px;	
+}
+#footer {
+	background-color: #000;
+	padding: 10px 0;
+	color: #aaa;	
+}
 
 @media (max-device-width: 799px) {
 	.navbar-default .navbar-header .navbar-brand:focus, 

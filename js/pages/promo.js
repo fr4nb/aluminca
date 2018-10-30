@@ -13,6 +13,8 @@
 	    }
 	});
 
+	$('section#contact').addClass('no-padding');
+
     // init
     
 
