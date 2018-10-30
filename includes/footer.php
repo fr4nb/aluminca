@@ -38,7 +38,7 @@
 <footer id="footer">
     <div class="container">
       <div class="footer-copyright text-center py-3">
-        &copy;2017 <strong>ALUMINCA S.A.</strong> Power by <a href="mailto:francisco@fbergamaschi.com.ar">fr4nb</a>
+        &copy;2017 <a href="www.aluminca.com.ar"><strong>ALUMINCA S.A.</strong></a> Power by <a href="mailto:francisco@fbergamaschi.com.ar">fr4nb</a>
       </div>
     </div>
 </footer><!-- #footer -->
