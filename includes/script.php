@@ -33,6 +33,16 @@
 		default:
 			?> 
 			<script src="/js/pages/home.js"></script>
+
+			<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126567685-3"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-126567685-3');
+			</script>
 		<?php
 			break;
 	}
