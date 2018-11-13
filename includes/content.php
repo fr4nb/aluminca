@@ -304,31 +304,31 @@
 
             <!-- prod 3 -->
             <div class="col-lg-4 col-sm-6">
-                <a href="/img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                    <img src="/img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                <a href="/img/portfolio/fullsize/artefactos-oferta.jpg" class="portfolio-box">
+                    <img src="/img/portfolio/thumbnails/artefactos-oferta.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div lang="en" class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                6030
+                                Offer
                             </div>
                             <div class="project-name">
-                                Street Lights
+                                Lights
                             </div>
                         </div>
                         <div lang="pt" class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                6030
+                                Oferecer
                             </div>
                             <div class="project-name">
-                                Dispositivos de rua
+                                Dispositivos
                             </div>
                         </div>
                         <div lang="es" class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                6030
+                                OFERTA
                             </div>
                             <div class="project-name">
-                                Artefactos de calle
+                                Artefactos
                             </div>
                         </div>
                     </div>
